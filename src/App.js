@@ -7,13 +7,14 @@ import PhysiologyPage from './pages/PhysiologyPage';
 import FactsPage from './pages/FactsPage';
 import SpeciesPage from './pages/SpeciesPage';
 import HelpPage from './pages/HelpPage';
+import './styles/style.css';
 
 function App() {
     console.log("React is working!"); 
     return (
         <Router>
             <Routes>
-                <Route path="/" element={<h1>TEST WORKING</h1>} />
+                <Route path="/" element={<MainPage />} />
                 <Route path="/evolution" element={<EvolutionPage />} />
                 <Route path="/social-life" element={<SocialLifePage />} />
                 <Route path="/physiology" element={<PhysiologyPage />} />
