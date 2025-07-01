@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Site-about-Dolphins/static/css/main.b673168f.css",
-    "main.js": "/Site-about-Dolphins/static/js/main.e0da3336.js",
+    "main.js": "/Site-about-Dolphins/static/js/main.c43fcf9d.js",
     "static/js/453.ed3810f9.chunk.js": "/Site-about-Dolphins/static/js/453.ed3810f9.chunk.js",
     "static/media/many-dolphins.jpg": "/Site-about-Dolphins/static/media/many-dolphins.93701e3101dcff51f7db.jpg",
     "static/media/dolphin-smiling.jpg": "/Site-about-Dolphins/static/media/dolphin-smiling.9219d35ce139fb013a00.jpg",
@@ -19,11 +19,11 @@
     "static/media/dolphins-with-flower.jpg": "/Site-about-Dolphins/static/media/dolphins-with-flower.606013da6e61ace1beaa.jpg",
     "index.html": "/Site-about-Dolphins/index.html",
     "main.b673168f.css.map": "/Site-about-Dolphins/static/css/main.b673168f.css.map",
-    "main.e0da3336.js.map": "/Site-about-Dolphins/static/js/main.e0da3336.js.map",
+    "main.c43fcf9d.js.map": "/Site-about-Dolphins/static/js/main.c43fcf9d.js.map",
     "453.ed3810f9.chunk.js.map": "/Site-about-Dolphins/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b673168f.css",
-    "static/js/main.e0da3336.js"
+    "static/js/main.c43fcf9d.js"
   ]
 }
