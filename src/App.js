@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import MainPage from './pages/MainPage';
 import EvolutionPage from './pages/EvolutionPage';
 import SocialLifePage from './pages/SocialLifePage';
@@ -10,7 +10,7 @@ import HelpPage from './pages/HelpPage';
 
 function App() {
     return (
-        <Router basename="/Site-about-Dolphins">
+        <Router>
             <Routes>
                 <Route path="/" element={<MainPage />} />
                 <Route path="/evolution" element={<EvolutionPage />} />
