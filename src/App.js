@@ -9,10 +9,11 @@ import SpeciesPage from './pages/SpeciesPage';
 import HelpPage from './pages/HelpPage';
 
 function App() {
+    console.log("React is working!"); 
     return (
         <Router>
             <Routes>
-                <Route path="/" element={<MainPage />} />
+                <Route path="/" element={<h1>TEST WORKING</h1>} />
                 <Route path="/evolution" element={<EvolutionPage />} />
                 <Route path="/social-life" element={<SocialLifePage />} />
                 <Route path="/physiology" element={<PhysiologyPage />} />
