@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Site-about-Dolphins/static/css/main.b673168f.css",
+    "main.js": "/Site-about-Dolphins/static/js/main.e0da3336.js",
+    "static/js/453.ed3810f9.chunk.js": "/Site-about-Dolphins/static/js/453.ed3810f9.chunk.js",
+    "static/media/many-dolphins.jpg": "/Site-about-Dolphins/static/media/many-dolphins.93701e3101dcff51f7db.jpg",
+    "static/media/dolphin-smiling.jpg": "/Site-about-Dolphins/static/media/dolphin-smiling.9219d35ce139fb013a00.jpg",
+    "static/media/dolphin-playing.jpg": "/Site-about-Dolphins/static/media/dolphin-playing.a5dac1aaf53685264957.jpg",
+    "static/media/header-sociallife.jpg": "/Site-about-Dolphins/static/media/header-sociallife.1c8e036e501813781a48.jpg",
+    "static/media/dophins-with-hoops.jpg": "/Site-about-Dolphins/static/media/dophins-with-hoops.44c80b384a1cc0acc0b8.jpg",
+    "static/media/header-dolphins.jpg": "/Site-about-Dolphins/static/media/header-dolphins.4fc86b75060433eb8a60.jpg",
+    "static/media/dolphin.jpg": "/Site-about-Dolphins/static/media/dolphin.7ab868be858ad8af545b.jpg",
+    "static/media/dophins-playing-with-ball.jpeg": "/Site-about-Dolphins/static/media/dophins-playing-with-ball.3a2e7fb81db8a4d95e7f.jpeg",
+    "static/media/dolphin-in-water.jpeg": "/Site-about-Dolphins/static/media/dolphin-in-water.a371745be2c6ccbb3ecb.jpeg",
+    "static/media/dolphin-swim.jpg": "/Site-about-Dolphins/static/media/dolphin-swim.5eef39169978c6428bad.jpg",
+    "static/media/two-dolphins.jpg": "/Site-about-Dolphins/static/media/two-dolphins.18d585c773862c1824c3.jpg",
+    "static/media/полосатый.jpg": "/Site-about-Dolphins/static/media/полосатый.4463ca390669da4bdf91.jpg",
+    "static/media/ширикорылый.jpg": "/Site-about-Dolphins/static/media/ширикорылый.bb5cf00f8ce8c945791f.jpg",
+    "static/media/dolphins-with-flower.jpg": "/Site-about-Dolphins/static/media/dolphins-with-flower.606013da6e61ace1beaa.jpg",
+    "index.html": "/Site-about-Dolphins/index.html",
+    "main.b673168f.css.map": "/Site-about-Dolphins/static/css/main.b673168f.css.map",
+    "main.e0da3336.js.map": "/Site-about-Dolphins/static/js/main.e0da3336.js.map",
+    "453.ed3810f9.chunk.js.map": "/Site-about-Dolphins/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b673168f.css",
+    "static/js/main.e0da3336.js"
+  ]
+}
