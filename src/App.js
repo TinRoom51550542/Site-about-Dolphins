@@ -10,7 +10,7 @@ import HelpPage from './pages/HelpPage';
 
 function App() {
     return (
-        <Router>
+        <Router basename="/Site-about-Dolphins">
             <Routes>
                 <Route path="/" element={<MainPage />} />
                 <Route path="/evolution" element={<EvolutionPage />} />
