@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from '../components/Navbar';
 import '../styles/style.css';
 import { usePageMeta } from '../hooks/usePageMeta';
+import physiology from '../images/physiology-of-dolphin.jpg';
 
 export default function Physiology() {
     usePageMeta("Физиология дельфинов — Анатомия и особенности", "Подробное описание анатомии, дыхания, кровообращения, эхолокации и других физиологических особенностей дельфинов.");
@@ -17,7 +18,7 @@ export default function Physiology() {
 
         <section className="intro fade-in">
             <div className="intro-with-image">
-                <img src="../images/physiology-of-dolphin.jpg" alt="Анатомические особенности дельфинов" className="intro-image-physiology"/>
+                <img src={physiology} alt="Анатомические особенности дельфинов" className="intro-image-physiology"/>
                 <article className="physiology-article">
                     <h2>Анатомические особенности дельфинов</h2>
                     <p>
