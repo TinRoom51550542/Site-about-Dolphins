@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/style.css';
+import original1 from '../images/original1.jpg';
 
 export default function Intro() {
     return (
@@ -12,7 +13,7 @@ export default function Intro() {
                 <p>Знаете ли вы, что дельфины дают друг другу имена и узнают себя в зеркале?</p>
             </div>
             <div className="intro-image">
-                <img src="../images/original1.jpg" alt="Дельфины" />
+                <img src={original1} alt="Дельфины" />
             </div>
         </section>
     );
