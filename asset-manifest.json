@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Site-about-Dolphins/static/css/main.4b59f876.css",
+    "main.css": "/Site-about-Dolphins/static/css/main.da4ff1f0.css",
     "main.js": "/Site-about-Dolphins/static/js/main.d71ac2ad.js",
     "static/js/453.ed3810f9.chunk.js": "/Site-about-Dolphins/static/js/453.ed3810f9.chunk.js",
     "static/media/many-dolphins.jpg": "/Site-about-Dolphins/static/media/many-dolphins.93701e3101dcff51f7db.jpg",
@@ -35,12 +35,12 @@
     "static/media/Беломордый дельфин (Lagenorhynchus albirostris).jpg": "/Site-about-Dolphins/static/media/Беломордый дельфин (Lagenorhynchus albirostris).85dd87af154c09cce977.jpg",
     "static/media/IgraSans.woff": "/Site-about-Dolphins/static/media/IgraSans.5eb3d7849a1776139c4a.woff",
     "index.html": "/Site-about-Dolphins/index.html",
-    "main.4b59f876.css.map": "/Site-about-Dolphins/static/css/main.4b59f876.css.map",
+    "main.da4ff1f0.css.map": "/Site-about-Dolphins/static/css/main.da4ff1f0.css.map",
     "main.d71ac2ad.js.map": "/Site-about-Dolphins/static/js/main.d71ac2ad.js.map",
     "453.ed3810f9.chunk.js.map": "/Site-about-Dolphins/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b59f876.css",
+    "static/css/main.da4ff1f0.css",
     "static/js/main.d71ac2ad.js"
   ]
 }
