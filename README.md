@@ -2,6 +2,8 @@
 
 Адаптивный веб-сайт, посвящённый дельфинам. Проект создан в рамках курсовой работы по дисциплине "WEB-технологии".
 
+Сайт загружен на [GitHub Pages](https://tinroom51550542.github.io/Site-about-Dolphins/#/).
+
 ## Технологии
 - **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
 - **Библиотеки:** react-router-dom, react-icons
